@@ -1,7 +1,9 @@
 # Quantisation
 Model weights.
 •	The larger the weight the greater the accuracy but increased required resources.
+
 •	Normally floating point
+
 •	Quantisation rescales weights and/or activations.
 •	Quantisation often uses INT8, INT4
 •	Mapping function
